@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning how to code in html, css and javascript
+- 😄 Pronouns: She/Her
+- 🔭 TBD
 <!--
 **FionaG02/FionaG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
